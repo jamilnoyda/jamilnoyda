@@ -4,7 +4,6 @@
 
 **EXPERIENCED PYTHON AND AWS BACKEND DEVELOPER**  
 Bengaluru, India  
-📞 +91 787 4656 121 | 📧 jamilnoyda@gmail.com  
 
 [LinkedIn Profile](https://www.linkedin.com/in/jamilnoyda/) | [GitHub Profile](https://github.com/jamilnoyda) | [Stack Overflow](https://stackoverflow.com/users/your-user-id) | [Medium Articles](https://medium.com/@your-medium-handle)
 
