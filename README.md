@@ -5,7 +5,7 @@
 **EXPERIENCED GOLANG, PYTHON AND AWS BACKEND SOFTWARE DEVELOPER**  
 Bengaluru, India  
 
-[LinkedIn Profile](https://www.linkedin.com/in/jamilnoyda/) | [GitHub Profile](https://github.com/jamilnoyda) | [Stack Overflow](https://stackoverflow.com/users/jamil-noyda) | [Medium Articles](https://medium.com/@jamilnoyda)
+[LinkedIn Profile](https://www.linkedin.com/in/jamilnoyda/) | [GitHub Profile](https://github.com/jamilnoyda) | [Stack Overflow](https://stackoverflow.com/users/6839331/jamil-noyda) | [Medium Articles](https://medium.com/@jamilnoyda)
 
 ---
 
