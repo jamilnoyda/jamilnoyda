@@ -2,7 +2,7 @@
 
 # JAMIL NOYDA
 
-**EXPERIENCED GOLANG, PYTHON AND AWS BACKEND SOFTWARE DEVELOPER**  
+** Sr. Software Engineer | AWS Certified | Golang | Kubernetes | Microservices | Python | Docker **  
 Bengaluru, India  
 
 [LinkedIn Profile](https://www.linkedin.com/in/jamilnoyda/) | [GitHub Profile](https://github.com/jamilnoyda) | [Stack Overflow](https://stackoverflow.com/users/6839331/jamil-noyda) | [Medium Articles](https://medium.com/@jamilnoyda)
