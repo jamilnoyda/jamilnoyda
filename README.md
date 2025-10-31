@@ -23,10 +23,10 @@ Bengaluru, India
 
 ## 🔧 Tech Stack
 
-- **Languages**: Python, Golang, SQL  
-- **Cloud & DevOps**: AWS (Lambda, API Gateway, S3, RDS, IAM), K8s, Docker  
-- **Databases**: MySQL, PostgreSQL
-- **Frameworks & Tools**: FastAPI, Django, Flask, Serverless Framework, Git, GitHub Actions, JIRA  
+- **Languages**: Golang, Python  
+- **Cloud & DevOps**: AWS Kubernetes, Docker  
+- **Databases**: MySQL
+- **Frameworks & Tools**: FastAPI, Django, Flask, Git, GitHub Actions, JIRA  
 
 ---
 
