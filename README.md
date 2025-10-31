@@ -12,19 +12,6 @@ Bengaluru, India
 ## 🏆 Achievements
 
 
-
-Stack overflow reputation 3700+ (40+ answered) 
-
-25+ Stars and 10+ forks on GitHub Repo 
-
-Certified AWS Cloud Practitioner 
-
-AWS Certified Solutions Architect – Associate 
-
-
-
-
-
 - ✍️ Wrote 10+ Articles on Hash node on Kubernetes, GitHub Actions on more   
 - 🧠 Stack Overflow reputation **3700+** with **40+ answers**  
 - ⭐ GitHub repos with **25+ stars** and **10+ forks**  
