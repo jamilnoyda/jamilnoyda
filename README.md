@@ -5,18 +5,32 @@
 **Sr. Software Engineer | AWS Solutions Architect Certified | Golang | Kubernetes | Microservices | Python | Docker**  
 Bengaluru, India  
 
-[LinkedIn Profile](https://www.linkedin.com/in/jamilnoyda/) | [GitHub Profile](https://github.com/jamilnoyda) | [Stack Overflow](https://stackoverflow.com/users/6839331/jamil-noyda) | [Medium Articles](https://medium.com/@jamilnoyda)
+[LinkedIn Profile](https://www.linkedin.com/in/jamilnoyda/) | [GitHub Profile](https://github.com/jamilnoyda) | [Stack Overflow](https://stackoverflow.com/users/6839331/jamil-noyda) | [Blog ](http://jamilnoyda.hashnode.dev)
 
 ---
 
 ## 🏆 Achievements
 
-- ✍️ Wrote an article on **“Django Models”** on Medium  
-- ✍️ Published **“The Art of Writing Code in Python! A Cheat Sheet”** on Medium  
-- 🧠 Stack Overflow reputation **3600+** with **40+ answers**  
-- ⭐ GitHub repos with **23+ stars** and **10+ forks**  
+
+
+Stack overflow reputation 3700+ (40+ answered) 
+
+25+ Stars and 10+ forks on GitHub Repo 
+
+Certified AWS Cloud Practitioner 
+
+AWS Certified Solutions Architect – Associate 
+
+
+
+
+
+- ✍️ Wrote 10+ Articles on Hash node on Kubernetes, GitHub Actions on more   
+- 🧠 Stack Overflow reputation **3700+** with **40+ answers**  
+- ⭐ GitHub repos with **25+ stars** and **10+ forks**  
 - 📜 **AWS Certified Cloud Practitioner**  
 - 📜 **AWS Certified Solutions Architect – Associate**
+- 📜 **Certified Kubernetes and Cloud Native Associate**
 
 ---
 
