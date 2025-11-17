@@ -5,7 +5,7 @@
 **Sr. Software Engineer | AWS Solutions Architect Certified | Golang | Kubernetes | Microservices | Python | Docker**  
 Bengaluru, India  
 
-[LinkedIn Profile](https://www.linkedin.com/in/jamilnoyda/) | [GitHub Profile](https://github.com/jamilnoyda) | [Stack Overflow](https://stackoverflow.com/users/6839331/jamil-noyda) | [Blog ](http://jamilnoyda.hashnode.dev)
+[LinkedIn Profile](https://www.linkedin.com/in/jamilnoyda/) | [Stack Overflow](https://stackoverflow.com/users/6839331/jamil-noyda) | [Blog ](http://jamilnoyda.hashnode.dev)
 
 ---
 
