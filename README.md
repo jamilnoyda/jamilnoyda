@@ -18,14 +18,15 @@ Bengaluru, India
 - 📜 **AWS Certified Cloud Practitioner**  
 - 📜 **AWS Certified Solutions Architect – Associate**
 - 📜 **Certified Kubernetes and Cloud Native Associate**
+- 📜 **AWS Certified Developer – Associate**
 
 ---
 
 ## 🔧 Tech Stack
 
 - **Languages**: Golang, Python  
-- **Cloud & DevOps**: AWS Kubernetes, Docker  
-- **Databases**: MySQL
+- **Cloud & DevOps**: AWS Kubernetes, terraform, Docker  
+- **Databases**: PostgreSQL, MySQL
 - **Frameworks & Tools**: FastAPI, Django, Flask, Git, GitHub Actions, JIRA  
 
 ---
